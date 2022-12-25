@@ -16,3 +16,6 @@
 
 ## 📃 Table of Contents:
   - [TBD](#-TBD)
+
+
+https://medium.com/@caesarmario/mall-customers-clustering-analysis-da594bd2718b
