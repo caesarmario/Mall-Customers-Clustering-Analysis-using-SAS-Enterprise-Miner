@@ -8,7 +8,7 @@
   <a href="https://linktr.ee/caesarmario_">
     <img src="https://img.shields.io/badge/Follow%20My%20Other%20Works-019875?style=flat&labelColor=019875&link=https:/linktr.ee/caesarmario_" alt="Linktree"/>
   </a>
-  <a href="https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models">
+  <a href="https://www.kaggle.com/code/caesarmario/evaluate-shopper-clusters-w-clusteval">
     <img src="https://img.shields.io/badge/-Similar%20Works%20on%20Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/caesarmario/91-eligibility-prediction-w-various-ml-models" alt="Similar Works"/>
   </a>
 </p>
